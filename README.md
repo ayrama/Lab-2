@@ -1,2 +1,1 @@
-# Labs
- CISC3130 Labs
+Lab 2.
